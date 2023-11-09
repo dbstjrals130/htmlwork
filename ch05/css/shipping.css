@@ -2,9 +2,7 @@
     width: 960px;
     margin: 20px auto;
 }
-
 h2{text-align: center;}
-
 form{
     width: 600px;
     margin: 0 auto;
@@ -15,13 +13,12 @@ ul li{
     margin: 16px;
 }
 ul li label{
-    width: 140px;
+    width: 120px;
     float: left;
 }
 ul li label.size{width: 140px;}
 textarea{resize: none;}
-
-input[type='submit'], input[type='reset'] {
+input[type='submit'], input[type='reset']{
     cursor: pointer;
     padding: 5px 10px;
 }

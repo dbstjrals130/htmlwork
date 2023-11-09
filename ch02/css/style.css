@@ -4,13 +4,13 @@ p{
     font-family: "바탕";
     line-height: 2;
 }
-span {
-    color : red;
+span{
+    color: red;
     font-weight: bold;
     font-size: 20px;
 }
 a{
     font-size: 20px;
-    text-decoration: none;  /* 밑줄 없애기 */
-    color: #000000
+    text-decoration: none; /* 밑줄 없애기 */
+    color: #000000;
 }
